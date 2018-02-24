@@ -9,6 +9,9 @@ A VueJS web platform for eTextbooks and community-driven knowledge exchange. Thi
 * Other features such as integrating Stripe for payments, authentication (Firebase), etc  
 
 **Progress Screenshots**
+
 [Authentication](https://github.com/tzaitoun/Divvyy/blob/master/Signin.png)
+
 [eTextbook and Note taking](https://github.com/tzaitoun/Divvyy/blob/master/eTextbook.png)
+
 [Q/A Forum](https://github.com/tzaitoun/Divvyy/blob/master/Forum.png)
