@@ -1,7 +1,7 @@
 # Divvyy
 A web platform for eTextbooks and community-driven knowledge exchange. This is the capstone project for the final year of Computer Engineering at the University of Toronto and is being done in a group of 4 students.  
 
-**Technologies**: Vue.js, Javascript, Firebase, PDF.js
+**Technologies**: Vue.js, Javascript, Firebase (Realtime Database, Storage, Authentication), PDF.js
 
 **Features**
 * Viewing eTextbooks on the website
