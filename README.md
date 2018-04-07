@@ -1,17 +1,18 @@
-# Divvyy - In Progress
-A VueJS web platform for eTextbooks and community-driven knowledge exchange. This is the capstone project for the final year of Computer Engineering at the University of Toronto and is being done in a group of 4 students.  
+# Divvyy
+A web platform for eTextbooks and community-driven knowledge exchange. This is the capstone project for the final year of Computer Engineering at the University of Toronto and is being done in a group of 4 students.  
 
-**Technologies**: VueJS, NodeJS, Firebase, HTML/CSS/Javascript, PDFjs, Stripe
+**Technologies**: Vue.js, Javascript, Firebase, PDF.js
 
-**Planned Features**
-* Viewing eTextbooks: viewing eTextbook on the website, highlighting, and note taking
-* Sharing: Sharing highlights and notes across users, Q/A Forum per eTextbook, and sharing eTextbook answers
-* Other features such as integrating Stripe for payments, authentication (Firebase), etc  
+**Features**
+* Viewing eTextbooks on the website
+* Highlight and take notes on the eTextbook
+* Share highlights and notes with other users
+* Ask questions, rate questions/answers, and select the best answer by using the per eTextbook Q&A Forum
+* Ask questions from an eTextbook's page and view the current best answer 
+* Favorite and search for eTextbooks
 
-**Progress Screenshots**
+**Screenshots**
 
-[Authentication](https://github.com/tzaitoun/Divvyy/blob/master/Signin.png)
+[eTextbook](https://github.com/tzaitoun/Divvyy/blob/master/eTextbook.png)
 
-[eTextbook and Note taking](https://github.com/tzaitoun/Divvyy/blob/master/eTextbook.png)
-
-[Q/A Forum](https://github.com/tzaitoun/Divvyy/blob/master/Forum.png)
+[Q&A Forum](https://github.com/tzaitoun/Divvyy/blob/master/Forum.png)
